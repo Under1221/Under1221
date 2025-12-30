@@ -20,3 +20,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+- name: Setup Node.js environment
+  uses: actions/setup-node@v6.1.0
+  - name: Cache
+  uses: actions/cache@v5.0.1
