@@ -54,7 +54,7 @@ Tenho interesse em **Data Science, Machine Learning** e **engenharia de dados**,
 
 <div align="center">
 
-![Snake animation](https://github.com/axelfelipe/axelfelipe/blob/output/github-contribution-grid-snake-purple.svg)
+![Snake animation](https://github.com/under1221/under1221/blob/output/github-contribution-grid-snake-purple.svg)
 
 </div>
 
