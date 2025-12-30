@@ -80,5 +80,5 @@ Atuar na área de **Ciência de Dados**, aplicando técnicas de **análise, esta
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Under1221&show_icons=true&hide_border=true&bg_color=000000&title_color=9B5DE5&icon_color=C77DFF&text_color=FFFFFF" />
+
 
