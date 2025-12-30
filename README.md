@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Under1221;Estudante+de+Ci%C3%AAncia+de+Dados;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Data+Science+%7C+Python+%7C+SQL;Transformando+dados+em+insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9B5DE5&center=true&vCenter=true&width=900&lines=Axel+Felipe;Estudante+de+Ci%C3%AAncia+de+Dados;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Data+Science+%7C+Python+%7C+SQL;Transformando+dados+em+insights" />
 
 </div>
 
@@ -40,12 +40,10 @@ Tenho interesse em **Data Science, Machine Learning e Engenharia de Dados**, bus
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+- 📌 Foco em projetos de **Data Science**
+- 📊 Experiência com **Python, SQL e análise de dados**
+- 📈 Evolução contínua em estudos e projetos práticos
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Under1221&show_icons=true&hide_border=true&bg_color=000000&title_color=9B5DE5&icon_color=9B5DE5&text_color=FFFFFF"
-  alt="GitHub Stats Under1221"
-/>
 
 </div>
 
