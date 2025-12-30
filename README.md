@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9B5DE5&center=true&vCenter=true&width=950&lines=Under1221;Estudante+de+Ci%C3%AAncia+de+Dados;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Data+Science+%7C+Python+%7C+SQL;Transformando+dados+em+insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9B5DE5&center=true&vCenter=true&width=950&lines=Axel+Felipe;Estudante+de+Ci%C3%AAncia+de+Dados;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Data+Science+%7C+Python+%7C+SQL;Transformando+dados+em+insights" />
 
 </div>
 
