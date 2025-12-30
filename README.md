@@ -40,12 +40,10 @@ Tenho interesse em **Data Science, Machine Learning e Engenharia de Dados**, bus
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/Under1221?template=classic&base.activity=true&base.community=false&base.repositories=false&config.timezone=America/Sao_Paulo"/>
-</div>
+- 📌 Foco em projetos de **Data Science**
+- 📊 Experiência com **Python, SQL e análise de dados**
+- 📈 Evolução contínua em estudos e projetos práticos
 
-
-</div>
 
 ---
 
@@ -70,6 +68,5 @@ Atuar na área de **Ciência de Dados**, aplicando técnicas de **análise, esta
 💜 *Data-driven decisions start with good questions and clean data.* 💜
 
 </div>
-
 
 
