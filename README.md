@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Under1221/Under1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=9B5DE5&center=true&vCenter=true&width=950&lines=Axel+Felipe;Estudante+de+Ci%C3%AAncia+de+Dados;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Data+Science+%7C+Python+%7C+SQL;Transformando+dados+em+insights" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 👨‍🎓 Perfil Profissional
+
+Sou **estudante de Ciência de Dados** e **Análise e Desenvolvimento de Sistemas**, com foco em **análise de dados, estatística aplicada e soluções baseadas em Python**.  
+Tenho interesse em **Data Science, Machine Learning** e **engenharia de dados**, buscando sempre transformar dados em informações estratégicas para tomada de decisão.
+
+---
+
+## 🧠 Áreas de Atuação
+
+- 📊 Análise e Visualização de Dados  
+- 📈 Estatística Aplicada  
+- 🤖 Introdução a Machine Learning  
+- 🗄️ Bancos de Dados SQL  
+- 🐍 Desenvolvimento com Python  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=axelfelipe&show_icons=true&theme=midnight-purple&bg_color=000000&title_color=9B5DE5&icon_color=C77DFF&text_color=FFFFFF" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelfelipe&layout=compact&theme=midnight-purple&bg_color=000000&title_color=9B5DE5&text_color=FFFFFF" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://github.com/axelfelipe/axelfelipe/blob/output/github-contribution-grid-snake-purple.svg)
+
+</div>
+
+---
+
+## 📌 Objetivo Profissional
+
+Atuar na área de **Ciência de Dados**, aplicando técnicas de **análise, estatística e programação**
+
 -->
