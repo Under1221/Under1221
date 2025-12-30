@@ -42,9 +42,17 @@ Tenho interesse em **Data Science, Machine Learning e Engenharia de Dados**, bus
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Under1221&show_icons=true&theme=midnight-purple&bg_color=000000&title_color=9B5DE5&icon_color=C77DFF&text_color=FFFFFF" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Under1221&show_icons=true&hide_border=true&bg_color=000000&title_color=9B5DE5&icon_color=C77DFF&text_color=FFFFFF"
+  alt="GitHub Stats Under1221"
+  height="160"
+/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Under1221&layout=compact&theme=midnight-purple&bg_color=000000&title_color=9B5DE5&text_color=FFFFFF" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Under1221&layout=compact&hide_border=true&bg_color=000000&title_color=9B5DE5&text_color=FFFFFF"
+  alt="Top Languages Under1221"
+  height="160"
+/>
 
 </div>
 
