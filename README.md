@@ -9,7 +9,7 @@
 ## 👨‍🎓 Perfil Profissional
 
 Sou **estudante de Ciência de Dados** e **Análise e Desenvolvimento de Sistemas**, com foco em **análise de dados, estatística aplicada e soluções em Python**.  
-Tenho interesse em **Data Science, Machine Learning e Engenharia de Dados**, buscando transformar dados em informações estratégicas.
+Tenho interesse em **Data Science, Machine Learning e Engenharia de Dados**, buscando transformar dados em informações estratégicas para tomada de decisão.
 
 ---
 
@@ -50,11 +50,11 @@ Tenho interesse em **Data Science, Machine Learning e Engenharia de Dados**, bus
 
 ---
 
-## 🐍 Contribuições
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-![Snake animation](https://github.com/Under1221/Under1221/blob/output/github-contribution-grid-snake-purple.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Under1221&bg_color=000000&color=9B5DE5&line=C77DFF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -62,7 +62,7 @@ Tenho interesse em **Data Science, Machine Learning e Engenharia de Dados**, bus
 
 ## 🎯 Objetivo Profissional
 
-Atuar na área de **Ciência de Dados**, aplicando **análise, estatística e programação** para gerar valor por meio dos dados, com foco em aprendizado contínuo e boas práticas.
+Atuar na área de **Ciência de Dados**, aplicando técnicas de **análise, estatística e programação** para gerar valor a partir dos dados, com foco em aprendizado contínuo e boas práticas de desenvolvimento.
 
 ---
 
